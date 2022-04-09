@@ -145,3 +145,5 @@ docs/source/auto_examples/
 node_modules/
 package.json
 yarn.lock
+
+.idea/

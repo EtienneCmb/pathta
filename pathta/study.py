@@ -96,7 +96,7 @@ class Study(object):
             * /backup: backup files
             * /classified: classified features
             * /database: datasets of the study
-            * /feature: features extracted from the diffrents datasets
+            * /feature: features extracted from the differents datasets
             * /figure: figures of the study
             * /multifeature: multifeatures files
             * /other: any other kind of files

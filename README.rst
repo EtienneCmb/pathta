@@ -1,3 +1,5 @@
+.. image::  https://github.com/EtienneCmb/pathta/blob/master/docs/source/_static/PATHTA.svg
+
 ======
 Pathta
 ======
