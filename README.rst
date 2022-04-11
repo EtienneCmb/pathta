@@ -1,4 +1,5 @@
-.. image::  https://github.com/EtienneCmb/pathta/blob/master/docs/source/_static/PATHTA.svg
+.. figure::  https://github.com/EtienneCmb/pathta/blob/master/docs/source/_static/PATHTA.png
+    :align:  center
 
 ======
 Pathta
