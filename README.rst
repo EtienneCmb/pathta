@@ -1,5 +1,3 @@
-.. figure::  https://github.com/EtienneCmb/pathta/blob/master/docs/source/_static/PATHTA.png
-    :align:  center
 
 ======
 Pathta
@@ -11,6 +9,8 @@ Description
 After a long hesitation between "Pathta" and "Tapath", I decided to call this incredibly complex toolbox "Pathta" given that I made a Postdoc surrounded by Italians. "Pathta" contains the world "Path" which is relatively natural since the goal of this incredibly complex toolbox is to manage path to files belonging to different research studies. Then there's the remaining "ta". I'm still not very sure what it means but someone suggested "to architecture". As a result, "Pathta" stands for "Path to architecture", which means nothing but sounds semi-professional. This incredibly complex toolbox can also be used to avoid setting paths between different systems (e.g. local computing and distant servers, collaborations between it-aliens etc.).
 
 In case you asked, here's the logo :
+.. figure::  https://github.com/EtienneCmb/pathta/blob/master/docs/source/_static/PATHTA.png
+    :align:  center
 
 Created by Etienne Combrithon, Ruggero Bathanithi
 
